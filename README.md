@@ -1,2 +1,2 @@
 # enlytica-dummy
-Sample Webarchive of Enactus Enlytica Dashboard with dummy data
+Demo HMTL and Webarchive files for Enlytica App for Enactus UNSW using dummy data. (Chrome or Safari recommended)
